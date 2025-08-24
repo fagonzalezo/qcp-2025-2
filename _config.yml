@@ -1,0 +1,17 @@
+title: Quantum Computer Programming 2023-II
+description: Universidad Nacional de Colombia, Bogotá
+sitename: Quantum Computer Programming
+baseurl: '/qcp-2023-2'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+  - Gemfile.bak
+  - .bundle
