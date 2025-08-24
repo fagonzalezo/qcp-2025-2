@@ -1,7 +1,7 @@
-title: Quantum Computer Programming 2023-II
+title: Quantum Computer Programming 2025-II
 description: Universidad Nacional de Colombia, Bogotá
 sitename: Quantum Computer Programming
-baseurl: '/qcp-2023-2'
+baseurl: '/qcp-2025-2'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
