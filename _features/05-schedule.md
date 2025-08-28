@@ -33,8 +33,8 @@ image:
 				Dario Gil, The Future of Quantum Computing, IBM 2020 (<a href= "https://www.youtube.com/watch?v=zOGNoDO7mcU">video</a>)<br>
 			</td>
 			<td>
-				<!-- <a href="exercises1.pdf">Exercise set 1</a><br>
-				<a href="https://colab.research.google.com/drive/1by-EsH2doCOpdh_BaHJpYKc751cGxda_?usp=sharing">Assignment 1</a> -->
+				<a href="exercises1.pdf">Exercise set 1</a><br>
+				<!-- <a href="https://colab.research.google.com/drive/1by-EsH2doCOpdh_BaHJpYKc751cGxda_?usp=sharing">Assignment 1</a> -->
 			</td>
 		</tr>
 		<tr>
@@ -51,7 +51,7 @@ image:
 				[Asfaw19] <a href="https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-appendix/linear_algebra.ipynb"> 8.1 Linear Algebra </a><br>
 			</td>
 			<td>
-				<!-- <a href="exercises2.pdf">Exercise set 2</a><br> -->
+				<a href="exercises2.pdf">Exercise set 2</a><br>
 			</td>
 		</tr>
 		<tr>
