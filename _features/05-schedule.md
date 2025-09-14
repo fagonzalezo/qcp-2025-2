@@ -53,7 +53,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sep 8</td>
+			<td>Sep 8-15</td>
 			<td>
 				1.3 Qubits <br>
 				1.4 Measurements <br>
@@ -73,7 +73,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sep 15</td>
+			<td>Sep 22</td>
 			<td>
 				1.5 Composite systems<br>
 				1.6 Pure, entangled and mixed states
@@ -91,7 +91,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sep 22</td>
+			<td>Sep 29</td>
 			<td>
 				1.7 Theory of computation and Computational Complexity <br>
 			</td>
@@ -109,7 +109,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sep 29</td>
+			<td>Oct 6</td>
 			<td>
 				2.1 Quantum circuits and gates
 			</td>
@@ -128,7 +128,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 6</td>
+			<td>Oct 13</td>
 			<td>
 				2.1 Quantum circuits and gates
 			</td>
@@ -145,7 +145,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 13-20</td>
+			<td>Oct 20-27</td>
 			<td>
 				2.2 Superdense coding and teleportation
 			</td>
@@ -161,7 +161,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 27</td>
+			<td>Nov 3</td>
 			<td>
 				2.3 Deutsch-Joza algorithm<br>
 				2.4 Simon's algorithm
@@ -178,7 +178,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 3</td>
+			<td>Nov 10</td>
 			<td>
 			2.5 Quantum Fourier Transform <br>
 			2.6 Quantum Phase Estimation <br>
@@ -196,7 +196,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 10</td>
+			<td>Nov 17</td>
 			<td>
 				2.9 Quantum algorithms for applications
 			</td>
@@ -212,7 +212,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 17</td>
+			<td>Nov 24</td>
 			<td>
 				3.1 Quantum machine learning algorithms<br>
 				3.2 Quantum variational learning
@@ -228,7 +228,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 24</td>
+			<td>Dec 1</td>
 			<td>
 				3.1 Quantum machine learning algorithms<br>
 			</td>
@@ -239,7 +239,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Dec 1</td>
+			<td>Dec 8</td>
 			<td>
 				3.3 Quantum machine learning algorithms
 			</td>
@@ -249,7 +249,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Dec 8</td>
+			<td>Dec 15</td>
 			<td>
 			</td>
 			<td>
