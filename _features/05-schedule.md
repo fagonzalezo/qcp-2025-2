@@ -69,7 +69,6 @@ image:
 			<td>
 				<a href="exercises2.pdf">Exercise set 2</a><br>
 				<a href="https://colab.research.google.com/drive/1by-EsH2doCOpdh_BaHJpYKc751cGxda_?usp=sharing">Assignment 1</a>
-				<!-- <a href="https://colab.research.google.com/drive/1eO25UKnQ9khY4zjoNdMgkPxGU9HJ64cT?usp=sharing">Assignment 2</a>  -->
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +86,8 @@ image:
 				[Qiskit-TB] <a href="https://learn.qiskit.org/course/basics/multiple-systems">  Basics of quantum information: Multiple systems </a><br>
 			</td>
 			<td>
-				<!-- <a href="exercises3.pdf">Exercise set 3</a><br> -->
+				<a href="exercises3.pdf">Exercise set 3</a><br>
+				<a href="https://colab.research.google.com/drive/1eO25UKnQ9khY4zjoNdMgkPxGU9HJ64cT?usp=sharing">Assignment 2</a> 
 			</td>
 		</tr>
 		<tr>
