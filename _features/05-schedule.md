@@ -123,8 +123,8 @@ image:
 				[Asfaw19] <a href= "https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-states/single-qubit-gates.ipynb">1.4 Single Qubit Gates</a><br>
 			</td>
 			<td>
-				<!-- <a href="exercises5.pdf">Exercise set 5</a><br>
-				<a href="https://colab.research.google.com/drive/10HN9jLvfJKfgqqMUJFxsJ6qbJ7LYCcyu?usp=sharing">Assignment 3</a><br> -->
+				<a href="exercises4.pdf">Exercise set 4</a><br>
+				<!-- <a href="https://colab.research.google.com/drive/10HN9jLvfJKfgqqMUJFxsJ6qbJ7LYCcyu?usp=sharing">Assignment 3</a><br> -->
 			</td>
 		</tr>
 		<tr>
