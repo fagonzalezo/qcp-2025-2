@@ -119,7 +119,7 @@ image:
 				<b>Reading material</b>: <br>
 				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/introduction/the-atoms-of-computation">Introduction to quantum computing: The atoms of computation </a><br>
 				[Qiskit-TB] <a href="https://learn.qiskit.org/course/basics/single-systems"> Basics of quantum information: Single systems </a><br>
-				[Asfaw19] <a href= "https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-states/representing-qubit-states.ipynb">1.3 Representing Qubit States</a><br>
+				[Asfaw19] <a href= "https://colab.research.google.com/drive/1HJ-hrFihfalxHbzTxugGmo5HHq3uSECH?usp=sharing">1.3 Representing Qubit States (updated to Qiskit 2.2.1)</a><br>
 				[Asfaw19] <a href= "https://colab.research.google.com/drive/1h2La3r2Pz0hwq1lipzxb9TpJNpz01zH2?usp=sharing">1.4 Single Qubit Gates (updated to Qiskit 2.2.1)</a><br>
 			</td>
 			<td>
