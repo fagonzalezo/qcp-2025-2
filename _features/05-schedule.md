@@ -158,7 +158,7 @@ image:
 				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/superdense-coding">Superdense Coding</a><br>
 			</td>
 			<td>
-			<!-- <a href="exercises6.pdf">Exercise set 6</a><br> -->
+			<a href="exercises6.pdf">Exercise set 6</a><br>
 			</td>
 		</tr>
 		<tr>
