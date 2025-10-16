@@ -143,6 +143,8 @@ image:
 			</td>
 			<td>
 				<a href="exercises5.pdf">Exercise set 5</a><br>
+				<a href="https://colab.research.google.com/drive/1ifZX4Vm6p0lfFLvQwDp3aRH3wxIyanvB?usp=sharing">Assignment 3</a><br>
+
 			</td>
 		</tr>
 		<tr>
