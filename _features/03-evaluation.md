@@ -7,9 +7,10 @@ image:
 ---
 
 * Participation 10%
-* Assignments 30%
-* Presentation 20%
-* Exam 20%
-* Final project 20%
+* Assignments 10%
+* Quizzes 20%
+* Presentation 10%
+* Exam 25%
+* Final project 25%
 
-[Grades](https://docs.google.com/spreadsheets/d/1EwUPizcHsice9gr-T5-2hMjZai2JjvyoQ5O5gwzJukg/edit?usp=sharing)
+[Grades](https://docs.google.com/spreadsheets/d/1N9aBZvPTuXtQnVCm9fE5lVPIywLTO9ay07n6z1GtsTw/edit?usp=sharing)
