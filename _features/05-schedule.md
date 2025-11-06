@@ -163,7 +163,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 3</td>
+			<td>Nov 3-10</td>
 			<td>
 				2.3 Deutsch-Joza algorithm<br>
 				2.4 Simon's algorithm
@@ -182,7 +182,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 10</td>
+			<td>Nov 24</td>
 			<td>
 			2.5 Quantum Fourier Transform <br>
 			2.6 Quantum Phase Estimation <br>
@@ -191,32 +191,32 @@ image:
 			</td>
 			<td>
 			<b>Reading material</b>: <br>
-				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/quantum-fourier-transform">Quantum Fourier Transform</a><br>
-				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/quantum-phase-estimation">Quantum Phase Estimation</a><br>
-				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/shors-algorithm">Shor's Algorithm</a><br>
-				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/grovers-algorithm">Grover's Algorithm</a><br>
+				[IBMQE] <a href= "https://quantum.cloud.ibm.com/learning/en/modules/computer-science/qft">Quantum Fourier Transform</a><br>
+				[IBMQE] <a href= "https://quantum.cloud.ibm.com/learning/en/courses/fundamentals-of-quantum-algorithms/phase-estimation-and-factoring/phase-estimation-procedure">Quantum Phase Estimation</a><br>
+				[IBMQE] <a href= "https://quantum.cloud.ibm.com/learning/en/courses/fundamentals-of-quantum-algorithms/phase-estimation-and-factoring/shor-algorithm">Shor's Algorithm</a><br>
+				[IBMQE] <a href= "https://quantum.cloud.ibm.com/learning/en/courses/fundamentals-of-quantum-algorithms/grover-algorithm/introduction">Grover's Algorithm</a><br>
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 17</td>
+			<td>Nov 24</td>
 			<td>
 				2.9 Quantum algorithms for applications
 			</td>
 			<td>
 				<b>Reading material</b>: <br>
-				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-applications/solving-linear-systems-of-equations-using-hhl-and-its-qiskit-implementation">Solving Linear Systems of Equations using HHL</a><br>
-				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-applications/simulating-molecules-using-vqe">Simulating Molecules using VQE</a><br>
-				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-applications/solving-combinatorial-optimization-problems-using-qaoa">Solving combinatorial optimization problems using QAOA</a><br>
 				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-applications/solving-satisfiability-problems-using-grovers-algorithm">Solving Satisfiability Problems using Grover's Algorithm</a><br>
+				[IBMQE] <a href= "https://quantum.cloud.ibm.com/learning/en/modules/computer-science/quantum-key-distribution">Quantum Key Distribution</a><br>
+				[IBMQE] <a href= "https://quantum.cloud.ibm.com/learning/en/modules/computer-science/vqe">Variational Quantum Eigensolver (VQE)</a><br>
+				[IBMQE] <a href= "https://quantum.cloud.ibm.com/learning/en/courses/quantum-machine-learning/qvc-qnn">Variational Quantum Circuits and Quantum Neural Networks</a><br>
 			</td>
 			<td>
 				<!-- <a href="project.pdf">Final Project</a><br> -->
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 24</td>
+			<td>Dec 1</td>
 			<td>
 				3.1 Quantum machine learning algorithms<br>
 				3.2 Quantum variational learning
@@ -227,17 +227,6 @@ image:
 				<b>Reading material</b>: <br>
 				 <a href= "https://pennylane.ai/qml/demos_getting-started.html">Pennylane introduction</a><br>
 				 Crooks, G. E. (2019). Gradients of parameterized quantum gates using the parameter-shift rule and gate decomposition. arXiv preprint <a href= "https://arxiv.org/abs/1905.13311">arXiv:1905.13311</a>.
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>Dec 1</td>
-			<td>
-				3.1 Quantum machine learning algorithms<br>
-			</td>
-			<td>
-				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/machine-learning/introduction">Quantum Machine Learning</a><br>
 			</td>
 			<td>
 			</td>
