@@ -182,6 +182,17 @@ image:
 			</td>
 		</tr>
 		<tr>
+			<td>Nov 17</td>
+			<td>
+				Final project proposal
+			</td>
+			<td>
+			</td>
+			<td>
+				<a href= "https://www.dropbox.com/request/z7F9A55AfCPoJ2rEN2Cq">Project proposal</a>: 3 persons per group, pdf with maximum 2 pages describing problem, objectives and method (18/11/25)<br>
+			</td>
+		</tr>
+		<tr>
 			<td>Nov 24</td>
 			<td>
 			2.5 Quantum Fourier Transform <br>
@@ -234,7 +245,7 @@ image:
 		<tr>
 			<td>Dec 8</td>
 			<td>
-				3.3 Quantum machine learning algorithms
+				Final Exam
 			</td>
 			<td>
 			</td>
@@ -242,13 +253,13 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Dec 15</td>
+			<td>Dec 14</td>
 			<td>
 			</td>
 			<td>
 			</td>
 			<td>
-				<!-- Final project -->
+				Final project submission
 			</td>
 		</tr>
 	</tbody>
