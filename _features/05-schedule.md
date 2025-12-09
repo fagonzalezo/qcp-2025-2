@@ -259,7 +259,7 @@ image:
 			<td>
 			</td>
 			<td>
-				Final project submission
+				<a href="project.pdf">Final Project submission</a><br>
 			</td>
 		</tr>
 	</tbody>
